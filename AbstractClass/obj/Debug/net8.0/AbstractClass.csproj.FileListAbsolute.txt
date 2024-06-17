@@ -1,0 +1,15 @@
+/Users/paul/Desktop/dcit318-assignment2-10976491/AbstractClass/bin/Debug/net8.0/AbstractClass
+/Users/paul/Desktop/dcit318-assignment2-10976491/AbstractClass/bin/Debug/net8.0/AbstractClass.deps.json
+/Users/paul/Desktop/dcit318-assignment2-10976491/AbstractClass/bin/Debug/net8.0/AbstractClass.runtimeconfig.json
+/Users/paul/Desktop/dcit318-assignment2-10976491/AbstractClass/bin/Debug/net8.0/AbstractClass.dll
+/Users/paul/Desktop/dcit318-assignment2-10976491/AbstractClass/bin/Debug/net8.0/AbstractClass.pdb
+/Users/paul/Desktop/dcit318-assignment2-10976491/AbstractClass/obj/Debug/net8.0/AbstractClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/paul/Desktop/dcit318-assignment2-10976491/AbstractClass/obj/Debug/net8.0/AbstractClass.AssemblyInfoInputs.cache
+/Users/paul/Desktop/dcit318-assignment2-10976491/AbstractClass/obj/Debug/net8.0/AbstractClass.AssemblyInfo.cs
+/Users/paul/Desktop/dcit318-assignment2-10976491/AbstractClass/obj/Debug/net8.0/AbstractClass.csproj.CoreCompileInputs.cache
+/Users/paul/Desktop/dcit318-assignment2-10976491/AbstractClass/obj/Debug/net8.0/AbstractClass.sourcelink.json
+/Users/paul/Desktop/dcit318-assignment2-10976491/AbstractClass/obj/Debug/net8.0/AbstractClass.dll
+/Users/paul/Desktop/dcit318-assignment2-10976491/AbstractClass/obj/Debug/net8.0/refint/AbstractClass.dll
+/Users/paul/Desktop/dcit318-assignment2-10976491/AbstractClass/obj/Debug/net8.0/AbstractClass.pdb
+/Users/paul/Desktop/dcit318-assignment2-10976491/AbstractClass/obj/Debug/net8.0/AbstractClass.genruntimeconfig.cache
+/Users/paul/Desktop/dcit318-assignment2-10976491/AbstractClass/obj/Debug/net8.0/ref/AbstractClass.dll
