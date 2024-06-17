@@ -1,0 +1,15 @@
+/Users/paul/Desktop/dcit318-assignment2-10976491/inheritance/bin/Debug/net8.0/inheritance
+/Users/paul/Desktop/dcit318-assignment2-10976491/inheritance/bin/Debug/net8.0/inheritance.deps.json
+/Users/paul/Desktop/dcit318-assignment2-10976491/inheritance/bin/Debug/net8.0/inheritance.runtimeconfig.json
+/Users/paul/Desktop/dcit318-assignment2-10976491/inheritance/bin/Debug/net8.0/inheritance.dll
+/Users/paul/Desktop/dcit318-assignment2-10976491/inheritance/bin/Debug/net8.0/inheritance.pdb
+/Users/paul/Desktop/dcit318-assignment2-10976491/inheritance/obj/Debug/net8.0/inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/paul/Desktop/dcit318-assignment2-10976491/inheritance/obj/Debug/net8.0/inheritance.AssemblyInfoInputs.cache
+/Users/paul/Desktop/dcit318-assignment2-10976491/inheritance/obj/Debug/net8.0/inheritance.AssemblyInfo.cs
+/Users/paul/Desktop/dcit318-assignment2-10976491/inheritance/obj/Debug/net8.0/inheritance.csproj.CoreCompileInputs.cache
+/Users/paul/Desktop/dcit318-assignment2-10976491/inheritance/obj/Debug/net8.0/inheritance.sourcelink.json
+/Users/paul/Desktop/dcit318-assignment2-10976491/inheritance/obj/Debug/net8.0/inheritance.dll
+/Users/paul/Desktop/dcit318-assignment2-10976491/inheritance/obj/Debug/net8.0/refint/inheritance.dll
+/Users/paul/Desktop/dcit318-assignment2-10976491/inheritance/obj/Debug/net8.0/inheritance.pdb
+/Users/paul/Desktop/dcit318-assignment2-10976491/inheritance/obj/Debug/net8.0/inheritance.genruntimeconfig.cache
+/Users/paul/Desktop/dcit318-assignment2-10976491/inheritance/obj/Debug/net8.0/ref/inheritance.dll
