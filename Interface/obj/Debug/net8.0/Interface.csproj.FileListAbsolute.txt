@@ -1,0 +1,15 @@
+/Users/paul/Desktop/dcit318-assignment2-10976491/Interface/bin/Debug/net8.0/Interface
+/Users/paul/Desktop/dcit318-assignment2-10976491/Interface/bin/Debug/net8.0/Interface.deps.json
+/Users/paul/Desktop/dcit318-assignment2-10976491/Interface/bin/Debug/net8.0/Interface.runtimeconfig.json
+/Users/paul/Desktop/dcit318-assignment2-10976491/Interface/bin/Debug/net8.0/Interface.dll
+/Users/paul/Desktop/dcit318-assignment2-10976491/Interface/bin/Debug/net8.0/Interface.pdb
+/Users/paul/Desktop/dcit318-assignment2-10976491/Interface/obj/Debug/net8.0/Interface.GeneratedMSBuildEditorConfig.editorconfig
+/Users/paul/Desktop/dcit318-assignment2-10976491/Interface/obj/Debug/net8.0/Interface.AssemblyInfoInputs.cache
+/Users/paul/Desktop/dcit318-assignment2-10976491/Interface/obj/Debug/net8.0/Interface.AssemblyInfo.cs
+/Users/paul/Desktop/dcit318-assignment2-10976491/Interface/obj/Debug/net8.0/Interface.csproj.CoreCompileInputs.cache
+/Users/paul/Desktop/dcit318-assignment2-10976491/Interface/obj/Debug/net8.0/Interface.sourcelink.json
+/Users/paul/Desktop/dcit318-assignment2-10976491/Interface/obj/Debug/net8.0/Interface.dll
+/Users/paul/Desktop/dcit318-assignment2-10976491/Interface/obj/Debug/net8.0/refint/Interface.dll
+/Users/paul/Desktop/dcit318-assignment2-10976491/Interface/obj/Debug/net8.0/Interface.pdb
+/Users/paul/Desktop/dcit318-assignment2-10976491/Interface/obj/Debug/net8.0/Interface.genruntimeconfig.cache
+/Users/paul/Desktop/dcit318-assignment2-10976491/Interface/obj/Debug/net8.0/ref/Interface.dll
